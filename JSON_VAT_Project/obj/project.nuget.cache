@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6nqqeSwSZyiSub68eTfZIiVa2YbUxtYg0vGAI/dxqXCml+yXD7v4YXmlt6P1gdBglmoJOpxz7X6Vs9RRhvARyg==",
+  "success": true,
+  "projectFilePath": "C:\\Projekty\\JSON_VAT_Project\\JSON_VAT_Project\\JSON_VAT_Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trcko\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

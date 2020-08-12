@@ -1,0 +1,15 @@
+C:\Projekty\JSON_VAT_Project\JSON_VAT_Project\bin\Debug\netcoreapp3.1\JSON_VAT_Project.exe
+C:\Projekty\JSON_VAT_Project\JSON_VAT_Project\bin\Debug\netcoreapp3.1\JSON_VAT_Project.deps.json
+C:\Projekty\JSON_VAT_Project\JSON_VAT_Project\bin\Debug\netcoreapp3.1\JSON_VAT_Project.runtimeconfig.json
+C:\Projekty\JSON_VAT_Project\JSON_VAT_Project\bin\Debug\netcoreapp3.1\JSON_VAT_Project.runtimeconfig.dev.json
+C:\Projekty\JSON_VAT_Project\JSON_VAT_Project\bin\Debug\netcoreapp3.1\JSON_VAT_Project.dll
+C:\Projekty\JSON_VAT_Project\JSON_VAT_Project\bin\Debug\netcoreapp3.1\JSON_VAT_Project.pdb
+C:\Projekty\JSON_VAT_Project\JSON_VAT_Project\obj\Debug\netcoreapp3.1\JSON_VAT_Project.csprojAssemblyReference.cache
+C:\Projekty\JSON_VAT_Project\JSON_VAT_Project\obj\Debug\netcoreapp3.1\JSON_VAT_Project.AssemblyInfoInputs.cache
+C:\Projekty\JSON_VAT_Project\JSON_VAT_Project\obj\Debug\netcoreapp3.1\JSON_VAT_Project.AssemblyInfo.cs
+C:\Projekty\JSON_VAT_Project\JSON_VAT_Project\obj\Debug\netcoreapp3.1\JSON_VAT_Project.dll
+C:\Projekty\JSON_VAT_Project\JSON_VAT_Project\obj\Debug\netcoreapp3.1\JSON_VAT_Project.pdb
+C:\Projekty\JSON_VAT_Project\JSON_VAT_Project\obj\Debug\netcoreapp3.1\JSON_VAT_Project.genruntimeconfig.cache
+C:\Projekty\JSON_VAT_Project\JSON_VAT_Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projekty\JSON_VAT_Project\JSON_VAT_Project\obj\Debug\netcoreapp3.1\JSON_VAT_Project.csproj.CoreCompileInputs.cache
+C:\Projekty\JSON_VAT_Project\JSON_VAT_Project\obj\Debug\netcoreapp3.1\JSON_VAT_Project.csproj.CopyComplete
