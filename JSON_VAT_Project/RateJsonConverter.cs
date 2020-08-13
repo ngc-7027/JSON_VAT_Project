@@ -15,7 +15,7 @@ namespace JSON_VAT_Project
                                     object existingValue, JsonSerializer serializer)
         {
             var token = JToken.Load(reader);
-            decimal d = 0M;
+            decimal d = -1M;
 
             Decimal.TryParse(token.ToString(), out d);
             return d;

@@ -1,10 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using Newtonsoft.Json;
 
 namespace JSON_VAT_Project
 {
-    class Country
+    public class Country
         {
         public string country { get; set; }
 
@@ -38,7 +37,7 @@ namespace JSON_VAT_Project
                 {
                     var changeValue = true;
 
-                    if (country.standard_rate >= highestRateCountries[i].standard_rate)
+                    if ((country.standard_rate != -1) && (country.standard_rate >= highestRateCountries[i].standard_rate))
                     {
                         for (int k = 0; k < i; k++)
                         {
@@ -75,7 +74,7 @@ namespace JSON_VAT_Project
                 {
                     var changeValue = true;
 
-                    if (country.standard_rate <= lowestRateCountries[i].standard_rate)
+                    if ((country.standard_rate != -1) && (country.standard_rate <= lowestRateCountries[i].standard_rate))
                     {
                         for (int k = 0; k < i; k++)
                         {
