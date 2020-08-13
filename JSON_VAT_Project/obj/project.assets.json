@@ -58,11 +58,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projekty\\JSON_VAT_Project\\JSON_VAT_Project\\JSON_VAT_Project.csproj",
+      "projectUniqueName": "C:\\Projekty\\Projects\\JSON_VAT_Project\\JSON_VAT_Project\\JSON_VAT_Project.csproj",
       "projectName": "JSON_VAT_Project",
-      "projectPath": "C:\\Projekty\\JSON_VAT_Project\\JSON_VAT_Project\\JSON_VAT_Project.csproj",
+      "projectPath": "C:\\Projekty\\Projects\\JSON_VAT_Project\\JSON_VAT_Project\\JSON_VAT_Project.csproj",
       "packagesPath": "C:\\Users\\trcko\\.nuget\\packages\\",
-      "outputPath": "C:\\Projekty\\JSON_VAT_Project\\JSON_VAT_Project\\obj\\",
+      "outputPath": "C:\\Projekty\\Projects\\JSON_VAT_Project\\JSON_VAT_Project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

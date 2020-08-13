@@ -1,16 +1,27 @@
 ﻿using System;
 using System.Collections.Generic;
+using Newtonsoft.Json;
 
 namespace JSON_VAT_Project
 {
     class Country
         {
         public string country { get; set; }
-        public double standard_rate { get; set; }
-        public string reduced_rate { get; set; }
-        public string reduced_rate_alt { get; set; }
-        public string super_reduced_rate { get; set; }
-        public string parking_rate { get; set; }
+
+        [JsonConverter(typeof(RateJsonConverter))]
+        public decimal standard_rate { get; set; }
+
+        [JsonConverter(typeof(RateJsonConverter))]
+        public decimal reduced_rate { get; set; }
+
+        [JsonConverter(typeof(RateJsonConverter))]
+        public decimal reduced_rate_alt { get; set; }
+
+        [JsonConverter(typeof(RateJsonConverter))]
+        public decimal super_reduced_rate { get; set; }
+
+        [JsonConverter(typeof(RateJsonConverter))]
+        public decimal parking_rate { get; set; }
 
         static public Country[] GetHighestRateCountries(List<Country> countries, int count)
         {
